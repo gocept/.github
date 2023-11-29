@@ -1,6 +1,6 @@
 # Gocept
 
-gocept was software company from 2020 until 2023, which mainly focused on
+gocept was software company from 2000 until 2023, which mainly focused on
 individual software projects developed with Python. During the development we
 used OSS frameworks such
 as [Zope](https://github.com/zopefoundation/Zope), [Plone](https://github.com/plone/),
